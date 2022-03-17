@@ -1,13 +1,23 @@
 {
   "name": "search-property",
-  "version": "1.0.1",
-  "description": "",
+  "version": "1.0.2",
+  "description": "Simple package that finds any property on an object.",
   "main": "lib/index.js",
   "types": "lib",
   "scripts": {
     "build": "tsc -p .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Miljoen/search-property"
+  },
+  "keywords": [
+    "typescript",
+    "ts",
+    "npm",
+    "package"
+  ],
   "author": "Yoeri Moens",
   "license": "MIT",
   "devDependencies": {
